@@ -1,3 +1,8 @@
+# Custom
+.vs
+out/
+*.pdb
+
 # Prerequisites
 *.d
 
